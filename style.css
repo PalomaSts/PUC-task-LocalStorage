@@ -1,0 +1,102 @@
+h1 {
+    text-align: center;
+}
+
+.quadro {
+    width: 100vw;
+    max-width: 100%;
+}
+
+.linha1 {
+    display: flex;
+}
+
+.l11 {
+    width: 25vw;
+    max-width: 25%;
+    background-color: #E6E6FA;
+    margin: 2px;
+    padding: 20px;
+    text-align: center;
+}
+
+.l12 {
+    width: 75vw;
+    max-width: 75%;
+}
+
+.linha_pontuacao {
+    margin: 2px;
+    background-color: #E6E6FA;
+    padding: 20px;
+    text-align: center;
+}
+
+.linha_categorias {
+    display: flex;
+    width: 100vw;
+    max-width: 100%;
+}
+
+.categorias {
+    width: 100vw;
+    max-width: 100%;
+    background-color: #E6E6FA;
+    margin: 2px;
+    padding: 20px;
+    align-items: center;
+    text-align: center;
+}
+
+.linha2 {
+    width: 100vw;
+    max-width: 100%;
+    display: flex;
+}
+
+.campos {
+    width: 25vw;
+    max-width: 25%;
+    background-color: #E6E6FA;
+    margin: 2px;
+    padding: 20px;
+    text-align: center;
+}
+
+.linha3 {
+    background-color: #E6E6FA;
+    margin: 2px;
+    padding: 20px;
+    text-align: center;
+}
+
+table {
+    width: 100vw;
+    max-width: 100%;
+}
+
+
+#cabecalho {
+    width: 25vw;
+    max-width: 25%;
+    background-color: #E6E6FA;
+    margin: 2px;
+    padding: 20px;
+    text-align: center;
+}
+
+td {
+    width: 25vw;
+    max-width: 25%;
+    background-color: #DDA0DD;
+    margin: 2px;
+    padding: 20px;
+    text-align: center;
+}
+
+footer {
+    position: sticky;
+    text-align: center;
+    margin: 2px;
+    padding: 20px;
+}
